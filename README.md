@@ -15,10 +15,10 @@ Welcome to my GitHub! I'm a passionate **Data Analyst** with 5+ years of experie
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, SQL, DAX, R (basic)
-- **Tools:** Power BI, Excel, Google Sheets, Tableau, Looker Studio
-- **Databases:** MySQL, PostgreSQL
-- **Other:** Git, Jupyter, VS Code, APIs
+- **Languages:** Python, SQL, DAX
+- **Tools:** Power BI, Excel, Google Sheets
+- **Databases:** MySQL
+- **Other:** Git, Jupyter, VS Code
 
 ---
 
@@ -34,16 +34,8 @@ Welcome to my GitHub! I'm a passionate **Data Analyst** with 5+ years of experie
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pritamjal/)
-- 🧑‍💻 [Portfolio Website](https://your-website.com) *(if available)*
-- ✉️ Email: yourname@example.com
+- 🧑‍💻 [Portfolio Website](https://your-website.com)
+- ✉️ Email: pritamjal01@gmail.com
 
 ---
-
-## 📊 GitHub Stats
-
-![Pritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
-
----
-
 *“Data is the new oil, but insight is the new gold.”*
