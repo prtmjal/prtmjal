@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a passionate **Data Analyst** with 5+ years of experie
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pritamjal/)
-- 🧑‍💻 [Portfolio Website](https://your-website.com)
+- 🧑‍💻 [Portfolio Website](https://prtmjal.github.io/portfolio/)
 - ✉️ Email: pritamjal01@gmail.com
 
 ---
